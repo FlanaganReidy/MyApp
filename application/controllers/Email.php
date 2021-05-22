@@ -1,6 +1,4 @@
 <!--
- * Name: Shannon Reidy
- * Final Project
  * Purpose:email controller for validating and ultimately sending email
 --> 
 

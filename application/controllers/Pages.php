@@ -1,7 +1,5 @@
 <!--
- * Name: Shannon Reidy
- * Coding 07
- * Purpose: controller for pages
+ * Purpose: controller for static pages
 --> 
 
 <?php

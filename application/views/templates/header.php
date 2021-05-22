@@ -21,8 +21,6 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNav">
                 <div class="navbar-nav">
-                  <a class="nav-link" href="./pilot">Pilot Creator</a>
-                  <a class="nav-link" href="/news">News</a>
                   <a class="nav-link" href="/contact">Contact</a>
                 </div>
                 </div>
