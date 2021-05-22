@@ -1,0 +1,41 @@
+/*
+* Name: Shannon Reidy
+ * Coding 07
+ * Purpose: additional css not covered by bootstrap
+ */
+
+footer{
+    background: #bdd7ff;
+}
+
+.nav-section{
+    padding-top: 10px;
+    height: 60px;
+    background: #5681c4;
+}
+
+.body-div{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.centered{
+    text-align: center;
+}
+
+.main-image{
+    width: 80%;
+    height:auto;
+}
+
+@media screen and (min-width:769px){
+    .body-div{
+        display:block;
+    }
+    .main-image{
+        float:left;
+        width:40%;
+        height:auto;
+    }
+
+}
