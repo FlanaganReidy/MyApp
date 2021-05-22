@@ -1,6 +1,4 @@
 <!--
- * Name: Shannon Reidy
- * Coding: Final Project
  * Purpose: template for contact page
 -->
 
